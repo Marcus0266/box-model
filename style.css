@@ -1,0 +1,28 @@
+body {
+  background-color: pink; 
+  color: white; 
+  font-size: 20px;
+}
+
+h1 {
+    font-size: 70px;
+    color: red;
+}
+.box {
+    background-color: blue;
+    width: 300px;
+
+    margin: 100px;
+    border-left-color: 5px;
+    border-left-style: solid;
+    border-left-color: green;
+
+
+
+
+    border-right-width: 10px;
+    border-right-style: solid;
+    border-right-color: black;
+    
+
+}
